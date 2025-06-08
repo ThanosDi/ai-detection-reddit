@@ -1,0 +1,14 @@
+{
+  "name": "ai-detection-reddit",
+  "version": "1.0.0",
+  "description": "Highlights Reddit answers that might be written by AI.",
+  "main": "dist/contents.js",
+  "author": "ThanosDi",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
